@@ -39,7 +39,7 @@ const data = {
         "reactjs",
         "tailwindcss"
       ],
-      link: "https://github.com/tobedevs/my-portfolio-website"
+      link: "https://tobedevs.github.io/Tobe-portfolio-website/"
     },
     {
       title: "Fade Master",
@@ -50,7 +50,7 @@ const data = {
         "Responsive Design",
         "Small Business Website",
       ],
-      link: "https://github.com/tobedevs/Fade-Master"
+      link: "https://tobedevs.github.io/Fade-Master/"
     },
     {
       title: "Spendwise - Budget Tracker",
