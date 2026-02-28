@@ -2,10 +2,10 @@ import React from "react";
 import { FaExternalLinkAlt } from "react-icons/fa";
 import GitHubButton from "react-github-btn";
 
-const ProjectCard = ({ project: { title, description, tags, link } }) => {
+const ProjectCard = ({ project: { title, description, tags, link, livelink } }) => {
   return (
     <div className="group w-full sm:w-1/2 m-4 mx-auto p-6 rounded-xl border-2 border-gray-300">
-      <a href={link}>
+      <a href={livelink}>
         <h1 className="text-xl text-center font-bold">
           {title}{" "}
           <FaExternalLinkAlt className="inline align-baseline" />

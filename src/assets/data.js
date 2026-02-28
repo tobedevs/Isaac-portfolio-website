@@ -39,7 +39,8 @@ const data = {
         "reactjs",
         "tailwindcss"
       ],
-      link: "https://tobedevs.github.io/Tobe-portfolio-website/"
+      link: "https://github.com/tobedevs/Isaac-portfolio-website",
+      livelink: "https://tobedevs.github.io/Tobe-portfolio-website/"
     },
     {
       title: "Fade Master",
@@ -50,7 +51,8 @@ const data = {
         "Responsive Design",
         "Small Business Website",
       ],
-      link: "https://tobedevs.github.io/Fade-Master/"
+      link: "https://github.com/tobedevs/Fade-Master",
+      livelink: "https://tobedevs.github.io/Fade-Master/"
     },
     {
       title: "Spendwise - Budget Tracker",
@@ -61,7 +63,8 @@ const data = {
         "JavaScript",
         "localStorage"
       ],
-      link: "https://github.com/tobedevs/Spendwise"
+      link: "https://github.com/tobedevs/Isaac-portfolio-website",
+      livelink: "https://tobedevs.github.io/spendwise/skip.html"
     }
   ]
 };
